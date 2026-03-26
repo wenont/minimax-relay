@@ -1,0 +1,8 @@
+name = "minimax-relay"
+main = "src/index.js"
+compatibility_date = "2026-03-26"
+compatibility_flags = [ "nodejs_compat" ]
+
+# Environment Variables:
+# MINIMAX_API_KEY - Set in Cloudflare Dashboard (Settings > Variables)
+
