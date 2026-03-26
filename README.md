@@ -39,7 +39,7 @@ Add to `~/.claude/settings.json`:
 {
   "env": {
     "ANTHROPIC_AUTH_TOKEN": "your-minimax-api-key",
-    "ANTHROPIC_BASE_URL": "https://your-worker.your-subdomain.workers.dev/v1"
+    "ANTHROPIC_BASE_URL": "https://your-worker.your-subdomain.workers.dev"
   }
 }
 ```
